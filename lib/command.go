@@ -1,3 +1,6 @@
+// chain command
+// with execution function
+
 package lib
 
 type Command interface {

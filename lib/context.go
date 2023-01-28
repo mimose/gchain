@@ -1,3 +1,6 @@
+// chain context
+// Pass parameters and set process context
+
 package lib
 
 import (

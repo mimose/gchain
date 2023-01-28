@@ -1,3 +1,6 @@
+// chain base
+// build chain with commands
+
 package lib
 
 import "errors"
