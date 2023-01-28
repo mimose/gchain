@@ -1,3 +1,6 @@
+// stopwatch by go
+// time consuming of monitoring task execution
+
 package help
 
 import (
